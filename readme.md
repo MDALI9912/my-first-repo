@@ -1,2 +1,7 @@
 # readme #
 some new file add
+ This IS MOHAMMED SHAFAYATH ALI 
+ I AM FROM GUNTUR
+ I AM SOFTER DEVELOPER
+ I AM ANU 
+ 
